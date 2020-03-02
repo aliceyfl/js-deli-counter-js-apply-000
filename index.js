@@ -10,5 +10,4 @@ katzDeliLine.push(newCustomer);
    return 'There is nobody waiting to be served!'; 
    }
  var customer = katzDeliLine.shift(); 
- return "Currently serving " + customer + "."; //return string with customer name
-// }
+ return "Currently serving " + customer + "."; 
