@@ -1,7 +1,7 @@
- var takeANumber = function(katzDeli, newCustomer) {
+ var takeANumber = function(katzDeliLine, newCustomer) {
     
- if (katzDeli.length > 0);
-katzDeli.push(newCustomer);
- return ('Welcome, ' + newCustomer + '. You are number ' + katzDeli.length + ' in line.')
+ if (katzDeliLine.length > 0);
+katzDeliLine.push(newCustomer);
+ return ('Welcome, ' + newCustomer + '. You are number ' + katzDeliLine.length + ' in line.')
    }
  
