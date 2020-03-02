@@ -1,3 +1,3 @@
-function takeANumber (katzDeliLine, name){
+function takeANumber(katzDeliLine, name){
   
 }
